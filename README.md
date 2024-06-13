@@ -1,4 +1,4 @@
-
+made by: https://steamcommunity.com/id/_hl2/
 
 
 Autoexec Script for Walking Around the Map
