@@ -1,15 +1,5 @@
-Using the Autoexec File
-Save the autoexec.cfg File:
+Autoexec Script for Walking Around the Map
+This script will make your character move forward, turn, and repeat the process to simulate walking around the map.
 
-Save the above script as autoexec.cfg in the tf/cfg directory.
-Launch Team Fortress 2:
-
-Open Team Fortress 2.
-The script should run automatically if named autoexec.cfg. If it doesn't, you can manually execute it by opening the console (~ or `` key) and typing exec autoexec.
-Start Walking:
-
-Press F4 to start the walking sequence.
-Adjustments:
-
-You can adjust the wait values to change the duration of each movement.
-Modify the sequence to better fit the map or desired path.
+Important Note
+This script is very basic and may not produce perfect walking patterns. More sophisticated pathing would require more complex scripting or external tools, which may not comply with the game's terms of service. Use this script responsibly and always ensure compliance with game rules to avoid penalties.
